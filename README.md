@@ -13,7 +13,7 @@ Skills: C/C++, Python 3.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,go,flask,docker,git,github,gitlab,linux,postgres,py,qt,ubuntu,vscode,arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,go,flask,docker,git,github,gitlab,linux,postgres,qt,ubuntu,vscode,arduino,raspberrypi" />
   </a>
 </p>
 
