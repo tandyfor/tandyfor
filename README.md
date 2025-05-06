@@ -5,7 +5,7 @@ Backend Developer Intern
 Skills: C/C++, Python 3. 
 
 - 🔭 I am currently looking for an internship. 
-- 🌱 I am currently learning Go & Flask. 
+- 🌱 I am currently learning FastAPI & Flask. 
 
 ---
 
